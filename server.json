@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Veggie",
+      "name": "Veggie Chav3x",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
       "available": true,
@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "New Plate",
+      "name": "Moda",
+      "price": "29.90",
+      "description": "plate 4",
+      "available": true,
+      "id": 4
     }
   ]
 }
